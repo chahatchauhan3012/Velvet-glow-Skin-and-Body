@@ -1,0 +1,6 @@
+{
+  "name": "Velvet Glow",
+  "description": "Premium beauty store specializing in natural cosmetics, dermatologist-tested skincare, and nourishing haircare products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
